@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # Backend Private IP
-BACKEND_URL = "http:// 172.31.33.98:3000/api/message"
+BACKEND_URL = "http://172.31.25.146:3000/api/message"
 
 HTML_PAGE = """
 
